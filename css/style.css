@@ -1,0 +1,17 @@
+body {
+  background: rgba(11,12,40,.8);
+  width: 90%;
+}
+
+#planets>div {
+  width: 10vh;
+  height: 10vh;
+  margin: 1em;;
+  display: inline-block;
+  text-align: center;
+  /*height: 1em;*/
+  padding: 1em;
+  border-radius: 50%;
+  box-shadow: 1px 1px 20px rgba(33,44,55,.9);
+  background: rgba(225,230,240,.8);
+}

@@ -1,15 +1,5 @@
 # Solar System
 
-## Setup
-
-These commands are a helpful quick start. You may choose to ignore them completely and create your own directory structure. If you choose to use this recommendation, just copy the commands below and paste. It doesn't matter what directory you are currently in.
-
-```bash
-mkdir -p ~/workspace/exercises/spa/array-methods && cd $_
-touch index.html
-touch array-methods.js
-```
-
 ## Instructions
 
 1. Copy the code below into the JavaScript file, and follow the instructions in the comments.
